@@ -1,0 +1,8 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+#LogCode https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 10 L04 GitHub Pages related
+ZCZC W00 10 L03 GitHub related
+ZCZC W00 30 L86 House chores (mencuci baju, menjemur, menyetrika baju)
+ZCZC W00 500 L84 Sleep
+ZCZC W01 60 L00 General : Proofread Slide OS Week 01
